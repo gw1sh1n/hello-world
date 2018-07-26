@@ -1,4 +1,4 @@
 # hello-world
-test repository--nothing to see here
+test repository--silly ways to write a 'hello world' program
 
 This is just a test project to relearn how to use GitHub
